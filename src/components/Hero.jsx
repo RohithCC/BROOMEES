@@ -10,7 +10,7 @@ const Hero = () => {
           <h1 className="text-5xl font-bold leading-tight text-gray-900">
             INDIA'S <br />
             <span className="bg-white px-2">TRUSTED</span> <br />
-            HOME MAKERS
+            HOME MAKERS .
           </h1>
 
           <p className="mt-6 text-lg text-gray-700">
